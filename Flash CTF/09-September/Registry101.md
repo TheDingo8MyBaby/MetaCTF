@@ -200,7 +200,7 @@ Joining the two halves in order gives the flag. The first half starts with a str
 # 🚩 Flag
 
 ```text
-MetaCTF{REDACTED}
+MetaCTF{F1r5t_st3p_2_r3g1stry_4and6}
 ```
 
 ---
