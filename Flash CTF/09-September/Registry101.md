@@ -190,7 +190,7 @@ b'!MetaCTF{F1r5t_st3p_'
 b'2_r3g1stry_4and6}'
 ```
 
-Joining the two halves in order gives the flag. The first half starts with a stray `!` before the `MetaCTF{` wrapper. The official write-up lists the flag with the `!` included, but the platform accepted it without the `!`, so I submitted it as `MetaCTF{...}`.
+Joining the two halves in order gives the flag. The first half starts with a stray `!` before the `MetaCTF{` wrapper. The `!` is not part of the accepted flag, so it is dropped and the flag is submitted as `MetaCTF{...}`.
 
 > [!NOTE]
 > If a decoded flag has an odd leading or trailing character, try it both with and without. Here the version without the `!` was accepted.
